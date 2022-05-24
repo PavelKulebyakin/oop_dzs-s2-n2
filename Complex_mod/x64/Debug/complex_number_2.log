@@ -1,0 +1,6 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (complex_number_2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  complex.cpp
+  main.cpp
+D:\Visual Studio\My_Projects\Class_projects_\complex_number_2\main.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  complex_number_2.vcxproj -> D:\Visual Studio\My_Projects\Home_work_p_1\x64\Debug\n1_Complex_mod.exe
