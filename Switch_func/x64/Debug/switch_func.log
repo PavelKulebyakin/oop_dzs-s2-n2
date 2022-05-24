@@ -1,0 +1,12 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (n2_Switch_func.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\Visual Studio\My_Projects\Switch_func\Switch_func\main.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio\My_Projects\Switch_func\Switch_func\main.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\My_Projects\Switch_func\Switch_func\main.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\My_Projects\Switch_func\Switch_func\main.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+  switch_func.cpp
+D:\Visual Studio\My_Projects\Switch_func\Switch_func\switch_func.cpp(5,29): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\My_Projects\Switch_func\Switch_func\switch_func.cpp(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  LINK : не найден или не выполнена сборка D:\Visual Studio\My_Projects\Switch_func\x64\Debug\Switch_func.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Switch_func.vcxproj -> D:\Visual Studio\My_Projects\Switch_func\x64\Debug\Switch_func.exe
